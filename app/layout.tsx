@@ -1,4 +1,5 @@
-import './globals.css'
+import "@picocss/pico/css/pico.classless.min.css";
+
 
 export default function RootLayout({
   children,
